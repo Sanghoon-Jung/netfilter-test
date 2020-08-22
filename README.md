@@ -3,7 +3,7 @@ Netfilter Test
 
 1st: settings
 -------------
-> put command
+> set iptables / install libs
 >	> $ sudo bash run.sh
 
 2nd: build
