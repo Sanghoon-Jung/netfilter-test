@@ -14,7 +14,7 @@ Netfilter Test
 3rd: execute
 ------------
 > put command example
->	> $ netfilter-test test.gilgil.net
+>	> $ sudo ./netfilter-test test.gilgil.net
 
 4th: clean
 -----------
